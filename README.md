@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developer since 2022.<br>📚 Currently Learning Java</p>
+<p align="left">✨ Developer since 2024.<br>📚 Currently Learning Java</p>
 
 ###
 
