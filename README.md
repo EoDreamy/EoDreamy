@@ -9,12 +9,12 @@ I'm Felipe, a Full Stack Developer focused on building business solutions, ERP i
 <h2 align="left">About me</h2>
 
 <p align="left">
-💻 Full Stack Developer<br>
-🏢 Building corporate systems and ERP integrations<br>
-🔄 Process automation with APIs and n8n<br>
-🤖 Exploring AI and intelligent systems<br>
-☕ Currently deepening my knowledge in Java<br>
-🚀 Passionate about creating scalable and useful solutions
+ Full Stack Developer<br>
+ Building corporate systems and ERP integrations<br>
+ Process automation with APIs and n8n<br>
+ Exploring AI and intelligent systems<br>
+ Currently deepening my knowledge in Java<br>
+ Passionate about creating scalable and useful solutions
 </p>
 
 ###
@@ -68,14 +68,3 @@ I'm Felipe, a Full Stack Developer focused on building business solutions, ERP i
 </div>
 
 ###
-
-<h2 align="left">Areas of Interest</h2>
-
-<p align="left">
-⚡ Full Stack Development<br>
-⚡ ERP Integrations<br>
-⚡ Process Automation<br>
-⚡ Artificial Intelligence<br>
-⚡ Software Architecture<br>
-⚡ Scalable Systems
-</p>
